@@ -1,3 +1,10 @@
+# 💳 Finance Agent — Personal AI Finance OS
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-6c63ff?style=for-the-badge)](https://finance-agent-hswzkck9cgkpqq9uknvw5u.streamlit.app)
+[![GitHub](https://img.shields.io/badge/GitHub-krishareddy20-black?style=for-the-badge&logo=github)](https://github.com/krishareddy20/finance-agent)
+
+
+
 # 💳 Finance Agent — Personal Life OS
 
 An intelligent personal finance agent that reads your Gmail, detects financial events,
