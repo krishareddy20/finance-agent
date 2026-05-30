@@ -1,0 +1,24 @@
+# Secrets — NEVER commit these
+.env
+token.json
+credentials.json
+
+# Database (real user data)
+finance_agent.db
+chroma_db/
+
+# ML model cache
+ml/classifier.pkl
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db

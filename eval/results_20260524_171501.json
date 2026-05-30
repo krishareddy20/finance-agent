@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-05-24T17:15:01.869839",
+  "results": [
+    {
+      "name": "regression",
+      "passed": 5,
+      "failed": 0,
+      "accuracy": 1.0,
+      "avg_latency_ms": 0.0,
+      "errors": [],
+      "duration_s": 0.3
+    },
+    {
+      "name": "classifier",
+      "passed": 20,
+      "failed": 0,
+      "accuracy": 1.0,
+      "avg_latency_ms": 0.72,
+      "errors": [],
+      "duration_s": 0.08
+    },
+    {
+      "name": "extraction",
+      "passed": 4,
+      "failed": 0,
+      "accuracy": 1.0,
+      "avg_latency_ms": 0.06,
+      "errors": [],
+      "duration_s": 0.0
+    }
+  ],
+  "overall": {
+    "passed": 29,
+    "total": 29
+  }
+}
